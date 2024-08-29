@@ -1,0 +1,13 @@
+.sort-btn{
+    background-color: #fff;
+    transition: 0.4s;
+    color: #0b2545;
+}
+
+.sort-btn:hover{
+    background-color: #0b2545;
+}
+
+.sort-btn:hover button{
+    color: #fff;
+}

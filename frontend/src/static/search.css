@@ -1,0 +1,10 @@
+.main-search-cont{
+    width: 850px
+}
+
+@media only screen and (max-width: 600px){
+    .main-search-cont{
+        width: 450px
+    }
+    
+}
